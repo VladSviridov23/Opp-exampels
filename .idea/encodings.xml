@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/abstraction/AbstractTank.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/abstraction/BT7.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/abstraction/Destroyable.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/abstraction/Drawable.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/abstraction/Tank.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/abstraction/Tiger.java" charset="windows-1251" />
+  </component>
+</project>
