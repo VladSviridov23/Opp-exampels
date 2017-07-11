@@ -5,9 +5,6 @@ package polimorphism;
  */
 public  class Figure {
 
-   public void countSquare() {
-      System.out.println("you can't count unknown figure square" );
-   }
-
+   public void countSquare() {}
 
 }

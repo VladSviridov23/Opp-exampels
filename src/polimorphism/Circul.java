@@ -5,8 +5,8 @@ package polimorphism;
  */
 public class Circul extends Figure {
 
-    double r=2.11;
-    double  PI =3.1415;
+    private double r=2.11;
+    private double  PI =3.1415;
 
     @Override
     public void countSquare() {
