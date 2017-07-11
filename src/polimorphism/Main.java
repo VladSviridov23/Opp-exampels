@@ -5,12 +5,14 @@ package polimorphism;
  */
 public class Main {
     public static void main(String[] args) {
-        Circul circul = new Circul();
-        circul.countSquare();
-        Square square = new Square();
-        square.countSquare();
-        Rectangle rectangle = new Rectangle();
-        rectangle.countSquare();
 
+        Figure f = new Circul();
+        f.countSquare();
+
+        f=new Square();
+        f.countSquare() ;
+
+        f= new Rectangle();
+        f.countSquare();
     }
 }
