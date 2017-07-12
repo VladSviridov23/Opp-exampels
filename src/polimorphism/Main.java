@@ -6,13 +6,8 @@ package polimorphism;
 public class Main {
     public static void main(String[] args) {
 
-        Figure f = new Circul();
-        f.countSquare();
-
-        f=new Square();
-        f.countSquare() ;
-
-        f= new Rectangle();
-        f.countSquare();
+        Figure[] arr = new Figure[]{new Circul(),new Rectangle(),new Square()};
+        for(int i=0;i<arr.length;i++)
+            arr[i].countSquare();
     }
 }
